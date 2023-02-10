@@ -1,13 +1,8 @@
 # curso de meses y estaciones
 
 <!DOCTYPE html>
-<!--
-Created using JS Bin
-http://jsbin.com
 
-Copyright (c) 2023 by anonymous (http://jsbin.com/yuwijomuzu/1/edit)
 
-Released under the MIT license: http://jsbin.mit-license.org
 -->
 <meta name="robots" content="noindex">
 <html>
@@ -42,3 +37,4 @@ alert (mensaje);
 </html>
 
 aca miramos el ejercicio de la unidad 2
+
